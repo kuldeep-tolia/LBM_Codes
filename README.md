@@ -1,3 +1,3 @@
 # classical_lbm_code
 
-FORTRAN codes for different flow problems using classical LBM.
+FORTRAN codes for different fluid flow problems using Lattice Boltzmann Method.
