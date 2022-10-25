@@ -1,3 +1,4 @@
-# classical_lbm_code
+# LBM_Codes
 
-FORTRAN codes for different fluid flow problems using Lattice Boltzmann Method.
+Various fluid-flow and heat transfer problems are solved using the Lattice Boltzmann Method.  
+as
