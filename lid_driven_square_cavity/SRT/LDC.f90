@@ -1,4 +1,5 @@
 !LBM code for Lid driven cavity
+!Reference -- Lattice Boltzmann Method by A.A.Mohamad
 
 program ldc
 
