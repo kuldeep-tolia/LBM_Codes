@@ -1,4 +1,5 @@
-!LBM code for Poisuell flow
+!LBM code for Poisuelle flow
+!Reference -- Lattice Boltzmann Method by A.A.Mohamad
 
 program pf
 
