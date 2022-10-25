@@ -1,4 +1,4 @@
-!LBM code for Lid driven cavity
+!LBM code for Lid driven cavity, Re = 1000
 !Reference -- Lattice Boltzmann Method by A.A.Mohamad
 
 program ldc
