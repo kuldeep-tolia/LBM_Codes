@@ -1,4 +1,5 @@
 !LBM code for 2d Flow in Channel
+!Reference -- Lattice Boltzmann Method by A.A.Mohamad
 
 program cf
 
