@@ -1,4 +1,6 @@
 !LBM code for Lid driven cavity using Multi Relaxation Time method using D2Q9 discrete velocity model
+!Reference -- Lattice Boltzmann Method by A.A.Mohamad
+!Re = 1000
 
 subroutine collision(u, v, f, feq, rho, omega, w, rx, ry, n, m, tm, tminv, stminv)
 
